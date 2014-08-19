@@ -1,0 +1,3 @@
+[
+    { "keys": ["ctrl+super+i","ctrl+super+p"], "command": "get_my_public_ip" },
+]

@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Get My Public IP",
+        "command": "get_my_public_ip"
+    },
+]
