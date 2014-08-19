@@ -1,17 +1,17 @@
-Get My Public IP for Sublime Text
+Get My Public IP Address for Sublime Text
 ===============
 
-A simple way to retrieve your public IP while coding in Sublime Text.
+A simple way to retrieve your public IP Address while coding in Sublime Text.
 
 ## Installation
-Install through Package Control. Search for "Get My Public IP".
+Install through Package Control. Search for "Get My Public IP Address".
 
 ## Usage
 Simple press `CTRL+ALT+I`, release just `I`, and while still holding `CTRL+ALT` press `P`. Confused?
 
 (In other way) is the same as press and hold `CTRL+ALT` and without release those keys, press `I` (and release), and then press `P`. Got it?
 
-`IP` :)
+`IP` Address :)
 
 (On OSX use `CTRL+COMMAND` instead of `CTRL+ALT` for the key combo)
 
