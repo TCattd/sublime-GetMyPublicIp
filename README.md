@@ -13,7 +13,7 @@ Simple press `CTRL+ALT+I`, release just `I`, and while still holding `CTRL+ALT` 
 
 `IP` Address :)
 
-(On OSX use `CTRL+COMMAND` instead of `CTRL+ALT` for the key combo)
+(On OSX use `CTRL+COMMAND` instead of `CTRL+ALT` for the keyboard combo)
 
 Your current public IP Address will be automatically placed at you cursor position. Easy.
 
